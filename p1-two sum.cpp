@@ -1,12 +1,14 @@
 #include <iostream>
 #include <algorithm>
 #include <vector>
+#include <unordered_map>
 
 using namespace std;
 
 int main(){
  	vector<int> num;
 	vector<int> ans;
+	unordered_map<int, int> mapNum;
  	int T, target;		//T, number of inputs for testing 
  		
  	while(cin >> T){
@@ -17,22 +19,20 @@ int main(){
 		}
 		cin >> target;
 
-		bool flag = false;
-		for(int i=0; i<num.size()-1; i++){
-			for(int j=i+1; j<num.size(); j++){
-				if(num.at(i) + num.at(j) == target){
-					ans.push_back(i);
-					ans.push_back(j);
-					flag = true;
-					break;
-				}
+		for(int i=0; i<num.size(); i++){
+			int dif = target - num.at(i);
+			if(mapNum.find(dif) != mapNum.end()){
+				ans.push_back(mapNum[dif]);
+				ans.push_back(i);
+				break;
 			}
-			if(flag)	break;
+			mapNum[num.at(i)] = i;
 		}
 		
 		cout << ans.at(0) << " " << ans.at(1) << endl;
 		num.clear();
 		ans.clear();		
- 	}
+ 		mapNum.clear();
+	}
  	return 0;
 }
