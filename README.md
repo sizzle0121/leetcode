@@ -10,7 +10,7 @@ Leetcode Gym
 - [ ] Regular Expression Matching
 - [x] Container With Most Water
 - [x] 3Sum
-- [ ] Letter Combinations of a Phone Number
+- [x] Letter Combinations of a Phone Number
 - [ ] Remove Nth Node From End of List
 - [ ] Valid Parentheses
 - [ ] Merge Two Sorted Lists
