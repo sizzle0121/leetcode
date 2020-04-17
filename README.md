@@ -9,7 +9,7 @@ Leetcode Gym
 - [x] Longest Palindromic Substring
 - [ ] Regular Expression Matching
 - [x] Container With Most Water
-- [ ] 3Sum
+- [x] 3Sum
 - [ ] Letter Combinations of a Phone Number
 - [ ] Remove Nth Node From End of List
 - [ ] Valid Parentheses
