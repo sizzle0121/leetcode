@@ -11,10 +11,10 @@ Leetcode Gym
 - [x] Container With Most Water
 - [x] 3Sum
 - [x] Letter Combinations of a Phone Number
-- [ ] Remove Nth Node From End of List
-- [ ] Valid Parentheses
-- [ ] Merge Two Sorted Lists
-- [ ] Generate Parentheses
+- [x] Remove Nth Node From End of List
+- [x] Valid Parentheses
+- [x] Merge Two Sorted Lists
+- [x] Generate Parentheses
 - [ ] Merge k Sorted Lists
 - [ ] Longest Valid Parentheses
 - [ ] Search in Rotated Sorted Array
