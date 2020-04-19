@@ -17,13 +17,13 @@ Leetcode Gym
 - [x] Generate Parentheses
 - [ ] Merge k Sorted Lists
 - [ ] Longest Valid Parentheses
-- [ ] Search in Rotated Sorted Array
-- [ ] Find First and Last Position of Element in Sorted Array
-- [ ] Combination Sum
+- [x] Search in Rotated Sorted Array
+- [x] Find First and Last Position of Element in Sorted Array
+- [x] Combination Sum
 - [ ] First Missing Positive
 - [ ] Trapping Rain Water
 - [ ] Jump Game II
-- [ ] Permutations
+- [x] Permutations
 - [ ] Rotate Image
 - [ ] Group Anagrams
 - [ ] Maximum Subarray
