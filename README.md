@@ -24,8 +24,8 @@ Leetcode Gym
 - [ ] Trapping Rain Water
 - [ ] Jump Game II
 - [x] Permutations
-- [ ] Rotate Image
-- [ ] Group Anagrams
+- [x] Rotate Image
+- [x] Group Anagrams
 - [ ] Maximum Subarray
 - [ ] Jump Game
 - [ ] Merge Intervals
