@@ -26,7 +26,7 @@ Leetcode Gym
 - [x] Permutations
 - [x] Rotate Image
 - [x] Group Anagrams
-- [ ] Maximum Subarray
+- [x] Maximum Subarray
 - [ ] Jump Game
 - [ ] Merge Intervals
 - [ ] Unique Paths
