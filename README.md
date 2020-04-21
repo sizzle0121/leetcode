@@ -30,10 +30,10 @@ Leetcode Gym
 - [x] Jump Game
 - [x] Merge Intervals
 - [x] Unique Paths
-- [ ] Minimum Path Sum
-- [ ] Climbing Stairs
+- [x] Minimum Path Sum
+- [x] Climbing Stairs
 - [ ] Edit Distance
-- [ ] Sort Colors
+- [x] Sort Colors
 - [ ] Minimum Window Substring
 - [ ] Subsets 
 - [ ] Word Search

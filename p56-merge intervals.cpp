@@ -1,3 +1,9 @@
+/*
+	sort the intervals, then merge them with conditions
+	Time complexity: O(nlogn)
+	Space complexity: O(1)
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
