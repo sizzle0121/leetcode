@@ -27,9 +27,9 @@ Leetcode Gym
 - [x] Rotate Image
 - [x] Group Anagrams
 - [x] Maximum Subarray
-- [ ] Jump Game
-- [ ] Merge Intervals
-- [ ] Unique Paths
+- [x] Jump Game
+- [x] Merge Intervals
+- [x] Unique Paths
 - [ ] Minimum Path Sum
 - [ ] Climbing Stairs
 - [ ] Edit Distance

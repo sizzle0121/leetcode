@@ -1,6 +1,9 @@
 /*
-	DP:	max_sum(i) is denoted as the maximum sum from array[0] to array[i]
-		max_sum(n) = max_sum(n-1) or (sum_from_max_sum(n-1) + array[n]) or (array[n])
+	First, Maximum subarray of A(0, i) = MaxSubArray(A(0, i-1)) or MaxSubArray include array[i-1] + array[i] or array[i]
+	even if the last two < current maximum, we still need to calculate them for the future element added in the array
+
+	DP:	max_sum(i) is denoted as the maximum sum from array[0] to array[i], which must includes array[i]
+		max_sum(n) = (max_sum(n-1) + array[n]) or (array[n])
 */
 #include <iostream>
 #include <vector>
@@ -14,7 +17,6 @@ int Solution(vector<int> &nums){
 	int maxi = nums[0];
 	for(int i=1; i<nums.size(); i++){
 		dp[i] = max(dp[i-1]+nums[i], nums[i]);
-		//cout << "head: " << head << " SFM: " << sum_from_max << endl;
 		if(dp[i] > maxi)	maxi = dp[i];
 	}	
 	return maxi;
