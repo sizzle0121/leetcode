@@ -35,11 +35,11 @@ Leetcode Gym
 - [ ] Edit Distance
 - [x] Sort Colors
 - [ ] Minimum Window Substring
-- [ ] Subsets 
-- [ ] Word Search
+- [x] Subsets 
+- [x] Word Search
 - [ ] Largest Rectangle in Histogram
 - [ ] Maximal Rectangle
-- [ ] Binary Tree Inorder Traversal
+- [x] Binary Tree Inorder Traversal
 - [ ] Unique Binary Search Trees
 - [ ] Validate Binary Search Tree
 - [ ] Symmetric Tree
