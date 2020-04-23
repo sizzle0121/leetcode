@@ -42,8 +42,8 @@ Leetcode Gym
 - [x] Binary Tree Inorder Traversal
 - [x] Unique Binary Search Trees
 - [x] Validate Binary Search Tree
-- [ ] Symmetric Tree
-- [ ] Binary Tree Level Order Traversal
+- [x] Symmetric Tree
+- [x] Binary Tree Level Order Traversal
 - [ ] Maximum Depth of Binary Tree
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] Flatten Binary Tree to Linked List
