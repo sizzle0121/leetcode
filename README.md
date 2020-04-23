@@ -40,8 +40,8 @@ Leetcode Gym
 - [ ] Largest Rectangle in Histogram
 - [ ] Maximal Rectangle
 - [x] Binary Tree Inorder Traversal
-- [ ] Unique Binary Search Trees
-- [ ] Validate Binary Search Tree
+- [x] Unique Binary Search Trees
+- [x] Validate Binary Search Tree
 - [ ] Symmetric Tree
 - [ ] Binary Tree Level Order Traversal
 - [ ] Maximum Depth of Binary Tree
