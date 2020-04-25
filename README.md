@@ -51,7 +51,7 @@ Leetcode Gym
 - [ ] Binary Tree Maximum Path Sum
 - [ ] Longest Consecutive Sequence
 - [x] [Single Number](https://leetcode.com/problems/single-number/)
-- [ ] Copy List with Random Pointer
+- [x] [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 - [ ] Word Break
 - [ ] Linked List Cycle
 - [ ] Linked List Cycle II 
