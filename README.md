@@ -50,7 +50,7 @@ Leetcode Gym
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] Binary Tree Maximum Path Sum
 - [ ] Longest Consecutive Sequence
-- [ ] Single Number
+- [x] [Single Number](https://leetcode.com/problems/single-number/)
 - [ ] Copy List with Random Pointer
 - [ ] Word Break
 - [ ] Linked List Cycle
