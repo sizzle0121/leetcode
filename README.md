@@ -52,8 +52,8 @@ Leetcode Gym
 - [ ] Longest Consecutive Sequence
 - [x] [Single Number](https://leetcode.com/problems/single-number/)
 - [x] [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
-- [ ] Word Break
-- [ ] Linked List Cycle
+- [x] [Word Break](https://leetcode.com/problems/word-break/)
+- [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [ ] Linked List Cycle II 
 - [ ] LRU Cache
 - [ ] Sort List
