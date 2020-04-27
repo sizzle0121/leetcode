@@ -55,9 +55,9 @@ Leetcode Gym
 - [x] [Word Break](https://leetcode.com/problems/word-break/)
 - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [x] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) 
-- [ ] LRU Cache
-- [ ] Sort List
-- [ ] Maximum Product Subarray
+- [x] [LRU Cache]
+- [x] [Sort List](https://leetcode.com/problems/sort-list/)
+- [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [ ] Min Stack
 - [ ] Intersection of Two Linked Lists
 - [ ] Majority Element
