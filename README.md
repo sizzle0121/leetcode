@@ -61,8 +61,8 @@ Leetcode Gym
 - [x] [Min Stack](https://leetcode.com/problems/min-stack/)
 - [x] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [x] [Majority Element](https://leetcode.com/problems/majority-element/)
-- [ ] House Robber
-- [ ] Number of Islands
+- [x] [House Robber](https://leetcode.com/problems/house-robber/)
+- [x] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [ ] Reverse Linked List
 - [ ] Course Schedule
 - [ ] Implement Trie (Prefix Tree)
