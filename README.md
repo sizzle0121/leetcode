@@ -63,7 +63,7 @@ Leetcode Gym
 - [x] [Majority Element](https://leetcode.com/problems/majority-element/)
 - [x] [House Robber](https://leetcode.com/problems/house-robber/)
 - [x] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
-- [ ] Reverse Linked List
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] Course Schedule
 - [ ] Implement Trie (Prefix Tree)
 - [ ] Kth Largest Element in an Array
