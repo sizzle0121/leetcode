@@ -64,9 +64,9 @@ Leetcode Gym
 - [x] [House Robber](https://leetcode.com/problems/house-robber/)
 - [x] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [ ] Course Schedule
-- [ ] Implement Trie (Prefix Tree)
-- [ ] Kth Largest Element in an Array
+- [x] [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [x] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [ ] Maximal Square
 - [ ] Invert Binary Tree
 - [ ] Palindrome Linked List
