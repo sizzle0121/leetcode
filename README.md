@@ -67,7 +67,7 @@ Leetcode Gym
 - [x] [Course Schedule](https://leetcode.com/problems/course-schedule/)
 - [x] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-- [ ] Maximal Square
+- [x] [Maximal Square](https://leetcode.com/problems/maximal-square/)
 - [ ] Invert Binary Tree
 - [ ] Palindrome Linked List
 - [ ] Lowest Common Ancestor of a Binary Tree
