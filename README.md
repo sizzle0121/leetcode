@@ -68,8 +68,8 @@ Leetcode Gym
 - [x] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [x] [Maximal Square](https://leetcode.com/problems/maximal-square/)
-- [ ] Invert Binary Tree
-- [ ] Palindrome Linked List
+- [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [ ] Lowest Common Ancestor of a Binary Tree
 - [ ] Product of Array Except Self
 - [ ] Sliding Window Maximum
