@@ -70,7 +70,7 @@ Leetcode Gym
 - [x] [Maximal Square](https://leetcode.com/problems/maximal-square/)
 - [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
-- [ ] Lowest Common Ancestor of a Binary Tree
+- [x] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [ ] Product of Array Except Self
 - [ ] Sliding Window Maximum
 - [ ] Search a 2D Matrix II
