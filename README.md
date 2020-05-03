@@ -71,11 +71,11 @@ Leetcode Gym
 - [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [x] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-- [ ] Product of Array Except Self
+- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] Sliding Window Maximum
-- [ ] Search a 2D Matrix II
+- [x] [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - [ ] Meeting Rooms II
-- [ ] Perfect Squares
+- [x] [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 - [ ] Move Zeroes
 - [ ] Find the Duplicate Number
 - [ ] Find Median from Data Stream
