@@ -76,11 +76,11 @@ Leetcode Gym
 - [x] [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - [ ] Meeting Rooms II
 - [x] [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
-- [ ] Move Zeroes
-- [ ] Find the Duplicate Number
+- [x] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [x] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [ ] Find Median from Data Stream
 - [ ] Serialize and Deserialize Binary Tree
-- [ ] Longest Increasing Subsequence
+- [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ ] Remove Invalid Parentheses
 - [ ] Best Time to Buy and Sell Stock with Cooldown
 - [ ] Burst Balloons
