@@ -82,10 +82,23 @@ Leetcode Gym
 - [ ] Serialize and Deserialize Binary Tree
 - [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ ] Remove Invalid Parentheses
-- [ ] Best Time to Buy and Sell Stock with Cooldown
+- [x] [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 - [ ] Burst Balloons
-- [ ] Coin Change
-- [ ] House Robber III
+- [x] [Coin Change](https://leetcode.com/problems/coin-change/)
+- [x] [House Robber III](https://leetcode.com/problems/house-robber-iii/)
 - [ ] Counting Bits
 - [ ] Top K Frequent Elements
 - [ ] Decode String
+- [ ] Queue Reconstruction by Height 
+- [ ] Partition Equal Subset Sum 
+- [ ] Path Sum III
+- [ ] Find All Anagrams in a String
+- [ ] Find All Numbers Disappeared in an Array 
+- [ ] Target Sum
+- [ ] Diameter of Binary Tree
+- [ ] Subarray Sum Equals K
+- [ ] Shortest Unsorted Continuous Subarray
+- [ ] Merge Two Binary Trees
+- [ ] Task Scheduler
+- [ ] Palindromic Substrings
+- [ ] Daily Temperatures
