@@ -88,7 +88,7 @@ Leetcode Gym
 - [x] [House Robber III](https://leetcode.com/problems/house-robber-iii/)
 - [x] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
-- [ ] Decode String
+- [x] [Decode String](https://leetcode.com/problems/decode-string/)
 - [ ] Queue Reconstruction by Height 
 - [ ] Partition Equal Subset Sum 
 - [ ] Path Sum III
