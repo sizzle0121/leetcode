@@ -86,8 +86,8 @@ Leetcode Gym
 - [ ] Burst Balloons
 - [x] [Coin Change](https://leetcode.com/problems/coin-change/)
 - [x] [House Robber III](https://leetcode.com/problems/house-robber-iii/)
-- [ ] Counting Bits
-- [ ] Top K Frequent Elements
+- [x] [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ] Decode String
 - [ ] Queue Reconstruction by Height 
 - [ ] Partition Equal Subset Sum 
