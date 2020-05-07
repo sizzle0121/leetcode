@@ -89,9 +89,9 @@ Leetcode Gym
 - [x] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [x] [Decode String](https://leetcode.com/problems/decode-string/)
-- [ ] Queue Reconstruction by Height 
-- [ ] Partition Equal Subset Sum 
-- [ ] Path Sum III
+- [x] [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
+- [x] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+- [x] [Path Sum III](https://leetcode.com/problems/path-sum-iii/)
 - [ ] Find All Anagrams in a String
 - [ ] Find All Numbers Disappeared in an Array 
 - [ ] Target Sum
