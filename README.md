@@ -92,9 +92,9 @@ Leetcode Gym
 - [x] [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
 - [x] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 - [x] [Path Sum III](https://leetcode.com/problems/path-sum-iii/)
-- [ ] Find All Anagrams in a String
-- [ ] Find All Numbers Disappeared in an Array 
-- [ ] Target Sum
+- [x] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+- [x] [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+- [x] [Target Sum](https://leetcode.com/problems/target-sum/)
 - [ ] Diameter of Binary Tree
 - [ ] Subarray Sum Equals K
 - [ ] Shortest Unsorted Continuous Subarray
