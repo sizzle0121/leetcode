@@ -95,9 +95,9 @@ Leetcode Gym
 - [x] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 - [x] [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [x] [Target Sum](https://leetcode.com/problems/target-sum/)
-- [ ] Diameter of Binary Tree
-- [ ] Subarray Sum Equals K
-- [ ] Shortest Unsorted Continuous Subarray
+- [x] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [x] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [x] [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 - [ ] Merge Two Binary Trees
 - [ ] Task Scheduler
 - [ ] Palindromic Substrings
