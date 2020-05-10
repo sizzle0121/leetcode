@@ -98,7 +98,7 @@ Leetcode Gym
 - [x] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 - [x] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 - [x] [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
-- [ ] Merge Two Binary Trees
+- [x] [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
 - [ ] Task Scheduler
 - [ ] Palindromic Substrings
 - [ ] Daily Temperatures
