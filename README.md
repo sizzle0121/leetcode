@@ -100,5 +100,5 @@ Leetcode Gym
 - [x] [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 - [x] [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
 - [x] [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
-- [ ] Palindromic Substrings
-- [ ] Daily Temperatures
+- [x] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+- [x] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
