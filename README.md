@@ -99,6 +99,6 @@ Leetcode Gym
 - [x] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 - [x] [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 - [x] [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
-- [ ] Task Scheduler
+- [x] [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 - [ ] Palindromic Substrings
 - [ ] Daily Temperatures
