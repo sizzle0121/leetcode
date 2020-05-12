@@ -1,9 +1,13 @@
 Leetcode Gym
 ---------------
 #### A leetcode a day, keeps unemployment away
->##### Top 100 Liked Questions
+##### Top 100 Liked Questions
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
+	* - [x] [4Sum](https://leetcode.com/problems/4sum/)
+	* - [x] [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+	* - [x] [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 - [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+	* -[x] [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] Median of Two Sorted Arrays
 - [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
