@@ -11,7 +11,10 @@ Leetcode Gym
 	* - [x] [Add Binary](https://leetcode.com/problems/add-binary/)
 	* - [x] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 	* - [x] [Add Strings](https://leetcode.com/problems/add-strings/)
+	* - [x] [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
+	* - [x] [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+	* - [x] [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
 - [ ] Median of Two Sorted Arrays
 - [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [ ] Regular Expression Matching]
