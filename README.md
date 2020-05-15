@@ -17,7 +17,7 @@ Leetcode Gym
 	* - [x] [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
 	* - [x] [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
 	* - [x] [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
-- [ ] Median of Two Sorted Arrays
+- [x] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 	* - [x] [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
 	* - [x] [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
