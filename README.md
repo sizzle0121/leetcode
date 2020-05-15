@@ -20,6 +20,7 @@ Leetcode Gym
 - [ ] Median of Two Sorted Arrays
 - [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 	* - [x] [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
+	* - [x] [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
 - [ ] Regular Expression Matching]
 - [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [x] [3Sum](https://leetcode.com/problems/3sum/)
