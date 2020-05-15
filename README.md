@@ -21,7 +21,7 @@ Leetcode Gym
 - [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 	* - [x] [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
 	* - [x] [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
-- [ ] [Regular Expression Matching]
+- [ ] Regular Expression Matching
 - [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [x] [3Sum](https://leetcode.com/problems/3sum/)
 - [x] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
