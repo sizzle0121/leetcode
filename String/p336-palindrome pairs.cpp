@@ -1,0 +1,82 @@
+#include <iostream>
+#include <vector>
+#include <string>
+#include <unordered_map>
+#include <algorithm>
+using namespace std;
+
+struct TreeNode{
+	int n;
+	TreeNode *next[26];
+	TreeNode(): n(0){
+		memset(next, 0, sizeof(TreeNode*) * 26);
+	}
+};
+
+bool isPalindrome(string s){
+	int n = s.length();
+	for(int i=0; i<n/2; i++)
+		if(s[i] != s[n-1-i])
+			return false;
+	return true;
+}
+
+vector<vector<int> > Solution(vector<string> &words){
+	TreeNode *root = new TreeNode();
+	unordered_map<string,int> hashTab;
+	for(int i=0; i<words.size(); i++){
+		TreeNode *tmp = root;
+		hashTab[words[i]] = i;
+		for(int j=0; j<words[i].size(); j++){
+			if(!tmp->next[words[i][j]-'a'])
+				tmp->next[words[i][j]-'a'] = new TreeNode();
+			tmp = tmp->next[words[i][j]-'a'];
+		}
+		tmp->n++;
+	}
+	vector<vector<int> > ans;
+	if(hashTab.find("") != hashTab.end()){//empty exists
+		for(auto &s: words){
+			if(s != "" && isPalindrome(s)){
+				ans.push_back(vector<int>{hashTab[""], hashTab[s]});
+				ans.push_back(vector<int>{hashTab[s], hashTab[""]});
+			}
+		}	
+	}
+	for(auto &s: words){
+		string rev(s);
+		reverse(rev.begin(), rev.end());
+		int revLen = rev.length();
+		for(int i=1; i<2*revLen; i++){
+			string target = (i<=revLen)? rev.substr(0, i) : rev.substr(i-revLen);
+			if(target == s)	continue;
+			TreeNode *node = root;
+			bool found = true;
+			for(int j=0; j<target.length(); j++){	
+				if(node->next[target[j]-'a']){
+					node = node->next[target[j]-'a'];
+				}else{
+					found = false;
+					break;
+				}
+			}
+			if(found && node->n){
+				if(i <= revLen && isPalindrome(target+s))		ans.push_back(vector<int>{hashTab[target], hashTab[s]});
+				else if(i > revLen && isPalindrome(s+target))	ans.push_back(vector<int>{hashTab[s], hashTab[target]});
+			}
+		}
+	}
+	return ans;
+}
+
+int main(){
+	int T;
+	cin >> T;
+	cin.ignore();
+	vector<string> ipt(T);
+	for(auto &s: ipt)
+		getline(cin, s);
+	vector<vector<int> > ans = Solution(ipt);
+	for(auto &opt: ans)
+		cout << opt[0] << " " << opt[1] << endl;
+}
