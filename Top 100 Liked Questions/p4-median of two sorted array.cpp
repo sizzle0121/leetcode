@@ -6,10 +6,38 @@
  *
  * Time complexity: O((n+m)/2) = O(n+m), n = nums1.size(), m = nums2.size()
  *
+ *
  * */
 #include <iostream>
 #include <vector>
 using namespace std;
+
+double Solution2(vector<int> &nums1, vector<int> &nums2){
+	int N = nums1.size(), M = nums2.size();
+	if(N > M)	return Solution2(nums2, nums1);
+	bool odd = (N+M)%2;
+	int k = (N+M+1)/2, l = 0, r = N, mid;
+	while(l <= r){
+		mid = (l+r)/2;
+		if(mid < N && nums1[mid] < nums2[k-mid-1]){
+			l = mid+1;
+		}else if( mid > 0 && nums2[k-mid] < nums1[mid-1]){
+			r = mid-1;
+		}else{
+			int maxL, minR;
+			if(mid == 0)		maxL = nums2[k-mid-1];
+			else if(k-mid == 0)	maxL = nums1[mid-1];
+			else 				maxL = max(nums1[mid-1], nums2[k-mid-1]);
+			if(odd)	return maxL;
+
+			if(mid == N)		minR = nums2[k-mid];
+			else if(k-mid == M)	minR = nums1[mid];
+			else 				minR = min(nums1[mid], nums2[k-mid]);
+			return (double)((maxL + minR)/2.0);
+		}
+	}
+	return 0;
+}
 
 double Solution(vector<int> &nums1, vector<int> &nums2){
 	int N = nums1.size(), M = nums2.size();
@@ -52,5 +80,5 @@ int main(){
 		cin >> num;
 	for(auto &num: nums2)
 		cin >> num;
-	cout << Solution(nums1, nums2) << endl;
+	cout << Solution2(nums1, nums2) << endl;
 }
