@@ -79,6 +79,24 @@ int Solution(vector<int> &height){
 	return ans;
 }
 
+int Solution2(vector<int> &height){//optimal solution (Time complexity: O(n), Space complexity: O(1))
+	int ans = 0;
+	if(height.empty())	return ans;
+	int l = 0, r = height.size()-1, leftMax = height[l], rightMax = height[r];
+	while(l < r){
+		if(height[l] > height[r]){
+			if(height[r] >= rightMax)	rightMax = height[r];
+			else 	ans += rightMax - height[r];
+			r--;
+		}else{
+			if(height[l] >= leftMax)	leftMax = height[l];
+			else 	ans += leftMax - height[l];
+			l++;
+		}
+	}
+	return ans;
+}
+
 int main(){
 	int T;
 	cin >> T;
@@ -86,4 +104,5 @@ int main(){
 	for(auto &h: height)
 		cin >> h;
 	cout << Solution(height) << endl;
+	cout << Solution2(height) << endl;
 }
