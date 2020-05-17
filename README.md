@@ -36,7 +36,7 @@ Leetcode Gym
 - [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [x] [Combination Sum](https://leetcode.com/problems/combination-sum/)
 - [ ] First Missing Positive
-- [ ] Trapping Rain Water
+- [x] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 - [ ] Jump Game II
 - [x] [Permutations](https://leetcode.com/problems/permutations/)
 - [x] [Rotate Image](https://leetcode.com/problems/rotate-image/)

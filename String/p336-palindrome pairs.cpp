@@ -1,3 +1,31 @@
+/*
+ * Brute-force:
+ * Concatenate each pair of strings, and check if it is palindromic
+ * for(int i=0; i<words.size(); i++)
+ * 		for(int j=i+1; j<words.size(); j++)
+ * 			if(isPalindromic( words[i] + words[j] ))
+ * 				ans.push_back(vector<int>{i, j});
+ * 			if(isPalindromic( words[j] + words[i] ))
+ * 				ans.push_back(vector<int>{j, i});
+ * 
+ * Time complexity: O(n^2 * 2 * m) = O(n^2 * m), where n is words.size(), m is the longest concatenated word
+ *
+ *
+ * HashTable + Trie:
+ * 1. For each string, enumerate all possible strings that can make it become a palindrome
+ * 2. For each of the possible, check if it exists in our "words"
+ *    If so, check if is palindromic
+ * 
+ * For step 2, we can implement Trie structure to search for it efficiently, O(S), S is the length of the target string\ 
+ * Directly search in the array for the string is O(n*S), n = array.size()
+ * For step 1, the possible strings will be the substrings of the reversed string of the original one\ 
+ * ans they can be only rev.substr(0, len=1) to rev.substr(0, len=revLen), which concatenated in front of the original one\ 
+ * and rev.substr(1) to rev.substr(revLen-1), which concatenated behind the original one
+ * There are revLen*2 - 1 possibles in total
+ *
+ * Time complexity: O(n * 2 * k * (k + m)) = O(n * k * m), where n is words.size(), m is the longest concatenated word, k is the length of the longest word in words
+ *
+ * */
 #include <iostream>
 #include <vector>
 #include <string>
@@ -35,9 +63,9 @@ vector<vector<int> > Solution(vector<string> &words){
 		tmp->n++;
 	}
 	vector<vector<int> > ans;
-	if(hashTab.find("") != hashTab.end()){//empty exists
+	if(hashTab.find("") != hashTab.end()){//empty string exists
 		for(auto &s: words){
-			if(s != "" && isPalindrome(s)){
+			if(s != "" && isPalindrome(s)){//add all self-aplindromic strings to the answer
 				ans.push_back(vector<int>{hashTab[""], hashTab[s]});
 				ans.push_back(vector<int>{hashTab[s], hashTab[""]});
 			}
