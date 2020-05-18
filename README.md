@@ -30,6 +30,7 @@ Leetcode Gym
 	* - [x] [Binary Watch](https://leetcode.com/problems/binary-watch/)
 - [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+	* - [x] [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [x] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 - [ ] Merge k Sorted Lists
