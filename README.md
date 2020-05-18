@@ -27,12 +27,13 @@ Leetcode Gym
 - [x] [3Sum](https://leetcode.com/problems/3sum/)
 	* - [x] [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 - [x] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+	* - [x] [Binary Watch](https://leetcode.com/problems/binary-watch/)
 - [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [x] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 - [ ] Merge k Sorted Lists
-- [ ] Longest Valid Parentheses
+- [x] [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 - [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [x] [Combination Sum](https://leetcode.com/problems/combination-sum/)
