@@ -32,6 +32,7 @@ Leetcode Gym
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 	* - [x] [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+	* - [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [x] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 - [ ] Merge k Sorted Lists
 - [x] [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
