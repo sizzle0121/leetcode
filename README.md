@@ -100,7 +100,7 @@ Leetcode Gym
 - [ ] Find Median from Data Stream
 - [ ] Serialize and Deserialize Binary Tree
 - [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-- [ ] Remove Invalid Parentheses
+- [x] [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
 - [x] [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 - [ ] Burst Balloons
 - [x] [Coin Change](https://leetcode.com/problems/coin-change/)
