@@ -34,7 +34,7 @@ Leetcode Gym
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 	* - [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [x] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
-- [ ] Merge k Sorted Lists
+- [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [x] [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 - [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
