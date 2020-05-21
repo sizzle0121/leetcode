@@ -41,6 +41,7 @@ Leetcode Gym
 	* - [x] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 	* - [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+	* - [x] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - [x] [Combination Sum](https://leetcode.com/problems/combination-sum/)
 - [ ] First Missing Positive
 - [x] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
