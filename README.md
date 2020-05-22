@@ -43,6 +43,9 @@ Leetcode Gym
 - [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 	* - [x] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - [x] [Combination Sum](https://leetcode.com/problems/combination-sum/)
+	* - [x] [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+	* - [x] [Combinations](https://leetcode.com/problems/combinations/)
+	* - [x] [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
 - [ ] First Missing Positive
 - [x] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 - [ ] Jump Game II
