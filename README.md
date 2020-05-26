@@ -47,7 +47,7 @@ Leetcode Gym
 	* - [x] [Combinations](https://leetcode.com/problems/combinations/)
 	* - [x] [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
 	* - [x] [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
-- [ ] First Missing Positive
+- [x] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - [x] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 - [ ] Jump Game II
 - [x] [Permutations](https://leetcode.com/problems/permutations/)
