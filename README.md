@@ -51,6 +51,7 @@ Leetcode Gym
 - [x] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 	* - [x] [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)
 - [x] [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+	* - [x] [Jump Game III](https://leetcode.com/problems/jump-game-iii/)
 - [x] [Permutations](https://leetcode.com/problems/permutations/)
 - [x] [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
