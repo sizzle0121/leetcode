@@ -49,6 +49,7 @@ Leetcode Gym
 	* - [x] [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
 - [x] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - [x] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+	* - [x] [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)
 - [ ] Jump Game II
 - [x] [Permutations](https://leetcode.com/problems/permutations/)
 - [x] [Rotate Image](https://leetcode.com/problems/rotate-image/)
