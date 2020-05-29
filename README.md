@@ -61,6 +61,7 @@ Leetcode Gym
 	* - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 	* - [x] [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)
+	* - [x] [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)
 - [x] [Jump Game](https://leetcode.com/problems/jump-game/)
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [x] [Unique Paths](https://leetcode.com/problems/unique-paths/)
