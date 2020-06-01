@@ -64,6 +64,8 @@ Leetcode Gym
 	* - [x] [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)
 - [x] [Jump Game](https://leetcode.com/problems/jump-game/)
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+	* - [x] [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
+	* - [x] [Partition Labels](https://leetcode.com/problems/partition-labels/)
 - [x] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [x] [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
