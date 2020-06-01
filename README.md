@@ -66,6 +66,7 @@ Leetcode Gym
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 	* - [x] [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
 	* - [x] [Partition Labels](https://leetcode.com/problems/partition-labels/)
+	* - [x] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 - [x] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [x] [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
