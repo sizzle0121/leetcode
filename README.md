@@ -65,9 +65,12 @@ Leetcode Gym
 - [x] [Jump Game](https://leetcode.com/problems/jump-game/)
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 	* - [x] [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
+	* - [x] [Range Module](https://leetcode.com/problems/range-module/)
 	* - [x] [Partition Labels](https://leetcode.com/problems/partition-labels/)
 	* - [x] [Insert Interval](https://leetcode.com/problems/insert-interval/)
+	* - [x] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 - [x] [Unique Paths](https://leetcode.com/problems/unique-paths/)
+	* - [x] [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 - [x] [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ ] Edit Distance
