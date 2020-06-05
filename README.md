@@ -73,7 +73,11 @@ Leetcode Gym
 	* - [x] [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 	* - [x] [Dungeon Game](https://leetcode.com/problems/dungeon-game/)
 - [x] [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+	* - [x] [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/)
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+	* - [x] [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+	* - [x] [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+	* - [x] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 - [ ] Edit Distance
 - [x] [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [ ] Minimum Window Substring
