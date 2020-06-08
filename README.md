@@ -78,7 +78,7 @@ Leetcode Gym
 	* - [x] [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 	* - [x] [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 	* - [x] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
-- [ ] Edit Distance
+- [x] [Edit Distance](https://leetcode.com/problems/edit-distance/)
 - [x] [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [ ] Minimum Window Substring
 - [x] [Subsets](https://leetcode.com/problems/subsets/)
