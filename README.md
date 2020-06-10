@@ -84,6 +84,7 @@ Leetcode Gym
 - [x] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 	* - [x] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 	* - [x] [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+	* - [x] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [x] [Subsets](https://leetcode.com/problems/subsets/)
 - [x] [Word Search](https://leetcode.com/problems/word-search/)
 - [ ] Largest Rectangle in Histogram
