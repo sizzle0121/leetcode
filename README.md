@@ -91,7 +91,7 @@ Leetcode Gym
 	* - [x] [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
 - [x] [Word Search](https://leetcode.com/problems/word-search/)
 	* - [x] [Word Search II](https://leetcode.com/problems/word-search-ii/)
-- [ ] Largest Rectangle in Histogram
+- [x] [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 - [ ] Maximal Rectangle
 - [x] [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [x] [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
