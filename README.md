@@ -88,7 +88,9 @@ Leetcode Gym
 	* - [x] [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 - [x] [Subsets](https://leetcode.com/problems/subsets/)
 	* - [x] [Subsets II](https://leetcode.com/problems/subsets-ii/)
+	* - [x] [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
 - [x] [Word Search](https://leetcode.com/problems/word-search/)
+	* - [x] [Word Search II](https://leetcode.com/problems/word-search-ii/)
 - [ ] Largest Rectangle in Histogram
 - [ ] Maximal Rectangle
 - [x] [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
