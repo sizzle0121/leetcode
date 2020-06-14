@@ -92,7 +92,7 @@ Leetcode Gym
 - [x] [Word Search](https://leetcode.com/problems/word-search/)
 	* - [x] [Word Search II](https://leetcode.com/problems/word-search-ii/)
 - [x] [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
-- [ ] Maximal Rectangle
+- [x] [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
 - [x] [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [x] [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
 - [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
