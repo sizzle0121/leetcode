@@ -94,6 +94,8 @@ Leetcode Gym
 - [x] [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 - [x] [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
 - [x] [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+	* - [x] [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+	* - [x] [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - [x] [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
 - [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [x] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
