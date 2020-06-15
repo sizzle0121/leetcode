@@ -158,3 +158,6 @@ Leetcode Gym
 - [x] [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 - [x] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [x] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+
+### Randomly Picked
+- [x] [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
