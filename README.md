@@ -98,6 +98,7 @@ Leetcode Gym
 	* - [x] [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 	* - [x] [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
 	* - [x] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+	* - [x] [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
 - [x] [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
 - [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [x] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
